@@ -1,0 +1,28 @@
+# Atmel Studio / Microchip Studio build directories
+Debug/
+Release/
+
+# Generated assembler/build artifacts
+*.hex
+*.elf
+*.eep
+*.lss
+*.map
+*.obj
+*.o
+*.tmp
+*.d
+*.dep
+*.a
+
+# IDE-generated metadata
+*.componentinfo.xml
+*.atsuo
+*.user
+*.suo
+*.cache
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
